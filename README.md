@@ -1,4 +1,4 @@
-# Guide 3: Redux
+# React + Router + Redux
 
 ## Final Guide
 
